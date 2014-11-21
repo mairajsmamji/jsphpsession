@@ -1,6 +1,6 @@
 <script src='libjs.js'></script>
-<script src='localdb/localstoragedb.js'></script>
-<script src='localdb/localstoragedb.min.js'></script>
+<script src='localstoragedb.js'></script>
+<script src='localstoragedb.min.js'></script>
 
 <script>
 
